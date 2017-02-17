@@ -1,3 +1,6 @@
+# Angular Todos Source
+This sample provides a todo functionality (adding task, updating by double clinking task name, deleting task, marking task as complement - by checking the checkbox, filter active, complete,all task, showing active tasks count).
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
